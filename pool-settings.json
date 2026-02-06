@@ -1,0 +1,7 @@
+{
+  "tokenAddress": "0x...",
+  "rate": 100,
+  "hardCapEther": "50",
+  "minContribution": "0.1",
+  "maxContribution": "2.0"
+}
